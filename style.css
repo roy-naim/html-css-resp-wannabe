@@ -83,9 +83,15 @@ img {
   h1 {
     margin-top: 0;
   }
+
+  h3 {
+    margin: 0;
+  }
+
   #lezioni {
     background-color: #F2F3CE; /*beige color*/
     width: 100%;
+    padding: 20px 0;
   }
 
   #lezioni >.row {
@@ -103,6 +109,7 @@ img {
 
   #steps {
     width: 100%;
+    padding: 20px 0;
   }
 
   #steps >.row {
@@ -125,6 +132,7 @@ img {
   #why {
     background-color: #F2F3CE; /*beige color*/
     width: 100%;
+    padding: 20px 0;
   }
 
   #why >.row {
